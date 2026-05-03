@@ -14,7 +14,7 @@ Este repositório contém o código-fonte de um site criado para praticar e demo
 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML5** — estrutura e marcação do conteúdo
 
-- ---
+---
 
 ## 📂 Estrutura do Projeto
 
@@ -29,27 +29,26 @@ meusite.html/
 ## 🚀 Como Visualizar
 
 1. Clone o repositório:
-2.    ```bash
-         git clone https://github.com/MIcodebot/meusite.html.git
-         ```
-      2. Abra o arquivo `index.html` no seu navegador.
-  
-      3. ---
-  
-      4. ## 📚 Conceitos Praticados
-  
-      5. - Estrutura básica do HTML (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`)
-         - - Tags de texto (`<h1>` a `<h6>`, `<p>`, `<strong>`, `<em>`)
-           - - Listas ordenadas e não ordenadas (`<ul>`, `<ol>`, `<li>`)
-             - - Links e imagens (`<a>`, `<img>`)
-               - - Formulários básicos (`<form>`, `<input>`, `<button>`)
-                 - - Semântica HTML5 (`<header>`, `<main>`, `<footer>`, `<section>`)
-                  
-                   - ---
+   ```bash
+   git clone https://github.com/MIcodebot/meusite.html.git
+   ```
+2. Abra o arquivo `index.html` no seu navegador.
 
-                   ## 👩‍💻 Autora
+---
 
-                   Feito com 💚 por **MIcodebot**
+## 📚 Conceitos Praticados
 
-                   [![GitHub](https://img.shields.io/badge/GitHub-MIcodebot-181717?style=flat&logo=github)](https://github.com/MIcodebot)
-                   
+- Estrutura básica do HTML (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`)
+- Tags de texto (`<h1>` a `<h6>`, `<p>`, `<strong>`, `<em>`)
+- Listas ordenadas e não ordenadas (`<ul>`, `<ol>`, `<li>`)
+- Links e imagens (`<a>`, `<img>`)
+- Formulários básicos (`<form>`, `<input>`, `<button>`)
+- Semântica HTML5 (`<header>`, `<main>`, `<footer>`, `<section>`)
+
+---
+
+## 👩‍💻 Autora
+
+Feito com 💚 por **MIcodebot**
+
+[![GitHub](https://img.shields.io/badge/GitHub-MIcodebot-181717?style=flat&logo=github)](https://github.com/MIcodebot)
